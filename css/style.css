@@ -10,7 +10,11 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Lato', sans-serif;
-    margin-top: 130px;
+}
+
+.top {
+    height: 50px;
+    margin-bottom: 50px;
 }
 
 .container {
